@@ -1,0 +1,11 @@
+{
+  "address": "127.0.0.1",
+  "port": "5555",
+  "SecretId": "",
+  "SecretKey": "",
+  "template_id": "",
+  "sms_sdk_id": "",
+  "sign": "",
+  "Available_times": 10,
+  "TokenTime": 3600
+}
